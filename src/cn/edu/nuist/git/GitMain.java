@@ -6,5 +6,7 @@ public class GitMain {
 		System.out.println("Git");
 		Happy h = new Happy();
 		h.init();
+		
+		System.out.println("git项目的feature分支");
 	}
 }
