@@ -3,6 +3,7 @@ package cn.edu.nuist.git;
 public class Happy {
     
      public  void init() {
-    	 System.out.println("³õÊ¼»¯·½·¨");
+    	 System.out.println("åˆå§‹åŒ–æ–¹æ³•1");
+    	 System.out.println("æµ‹è¯•");
      }
 }
