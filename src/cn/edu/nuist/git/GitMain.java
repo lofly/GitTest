@@ -6,5 +6,6 @@ public class GitMain {
 		System.out.println("Git");
 		Happy h = new Happy();
 		h.init();
+		System.out.println("创建分支hot_fix");
 	}
 }
